@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vanaja Kumari\\source\\repos\\JenkinsTesting\\JenkinsTesting\\JenkinsTesting.csproj": {}
+    "D:\\Repo_Code\\JenkinsTest\\JenkinsTesting\\JenkinsTesting\\JenkinsTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vanaja Kumari\\source\\repos\\JenkinsTesting\\JenkinsTesting\\JenkinsTesting.csproj": {
+    "D:\\Repo_Code\\JenkinsTest\\JenkinsTesting\\JenkinsTesting\\JenkinsTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vanaja Kumari\\source\\repos\\JenkinsTesting\\JenkinsTesting\\JenkinsTesting.csproj",
+        "projectUniqueName": "D:\\Repo_Code\\JenkinsTest\\JenkinsTesting\\JenkinsTesting\\JenkinsTesting.csproj",
         "projectName": "JenkinsTesting",
-        "projectPath": "C:\\Users\\Vanaja Kumari\\source\\repos\\JenkinsTesting\\JenkinsTesting\\JenkinsTesting.csproj",
+        "projectPath": "D:\\Repo_Code\\JenkinsTest\\JenkinsTesting\\JenkinsTesting\\JenkinsTesting.csproj",
         "packagesPath": "C:\\Users\\Vanaja Kumari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vanaja Kumari\\source\\repos\\JenkinsTesting\\JenkinsTesting\\obj\\",
+        "outputPath": "D:\\Repo_Code\\JenkinsTest\\JenkinsTesting\\JenkinsTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vanaja Kumari\\AppData\\Roaming\\NuGet\\NuGet.Config",
